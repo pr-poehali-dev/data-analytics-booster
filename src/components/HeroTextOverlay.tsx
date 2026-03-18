@@ -13,9 +13,9 @@ export default function HeroTextOverlay() {
         МАКС
       </h1>
       <p className="text-foreground font-mono text-sm md:text-base max-w-xs tracking-widest lg:text-base">
-        Ваш надежный гид
+        Roblox-разработчик.
         <br />
-        в мире баз данных
+        Создаю игры и миры.
       </p>
     </div>
   )
